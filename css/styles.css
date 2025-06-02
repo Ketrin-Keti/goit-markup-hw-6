@@ -1666,19 +1666,6 @@ p {
     border: none;
     fill: var(--svg-color);
   }
-  /* .checkbox-label:focus .link {
-    background-color: var(--checkcolor);
-    border: none;
-  } */
-  /* .checkbox-label:focus .checkbox-social-icon-ok,
-  .input-checkbox:checked + .checkbox-label .checkbox-social-icon-ok {
-    display: block;
-  } */
-  /* .checkbox-label:focus .checkbox-social-icon,
-  .input-checkbox:checked + .checkbox-label .checkbox-social-icon {
-    display: none;
-  } */
-
   .checkbox-politic {
     color: var(--accent-color);
     text-decoration: underline;
