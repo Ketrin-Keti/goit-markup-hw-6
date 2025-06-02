@@ -1658,7 +1658,7 @@ p {
     align-items: center;
     justify-content: center;
     fill: transparent;
-    /* margin-right: 8px; */
+    margin-right: 8px;
   }
 
   .input-checkbox:checked + .checkbox-label .link {
