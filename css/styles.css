@@ -169,7 +169,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 12px;
-    padding: 16px 0;
+    justify-content: center;
   }
   .contact-link {
     font-size: 12px;
@@ -187,8 +187,10 @@ a {
 }
 @media screen and (min-width: 768px) and (max-width: 1200px) {
   .contact {
+    display: flex;
     margin-left: auto;
     line-height: 1.17em;
+    justify-content: center;
   }
 }
 @media screen and (min-width: 1200px) {
